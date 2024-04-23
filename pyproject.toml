@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "poetry-fails-websocket"
+version = "0.1.0"
+description = ""
+authors = ["Malte Swart <msw@kialo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.12"
+websockets = "^11.0.3"
