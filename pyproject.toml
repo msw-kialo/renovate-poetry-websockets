@@ -6,5 +6,5 @@ authors = ["Malte Swart <msw@kialo.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "~3.12"
+python = "~3.14.0"
 websockets = "^11.0.3"
